@@ -126,6 +126,12 @@ body {
   }
   /*Her ender header*/
 
+ 
+  .bil-container {
+    display: justi;
+
+  }
+
 /*Footer starter her*/
   .footer {
     background-color: black;
